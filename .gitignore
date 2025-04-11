@@ -1,0 +1,4 @@
+*.esf3d
+script/
+.pdm-python
+*.qlab5backup
