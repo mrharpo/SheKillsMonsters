@@ -2,3 +2,4 @@
 script/
 .pdm-python
 *.qlab5backup
+*.pdf
